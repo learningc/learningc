@@ -1,2 +1,2 @@
-bin_PROGRAMS = cexample
-cexample_SOURCES = main.c
+bin_PROGRAMS = cexample himom
+cexample_SOURCES = main.c, himom.c
